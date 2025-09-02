@@ -1,0 +1,3 @@
+Jonas, 6
+Henrik, 3
+Erik, 2
